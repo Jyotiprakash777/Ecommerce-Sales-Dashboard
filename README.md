@@ -26,4 +26,4 @@ It helps in analyzing overall sales, profit, customer behavior, product categori
 - Clothing contributes 63% of total quantity sold.
 - COD is the most preferred payment mode (44%).
 - Printers generate the highest profit among sub-categories.
-- June shows a negative profit, while January and December are peak profit months.
+- May shows a negative profit, while January and December are peak profit months.
