@@ -18,7 +18,7 @@ It helps in analyzing overall sales, profit, customer behavior, product categori
 - **Skills:** Data Cleaning, Data Analysis, Data Visualization
 
 ## 📊 Dashboard
-![Screenshot](screenshot.png)
+![Screenshot](screenshot2.png)
 
 
 ## 🚀 Insights
