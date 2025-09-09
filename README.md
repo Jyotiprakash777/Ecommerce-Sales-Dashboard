@@ -18,7 +18,8 @@ It helps in analyzing overall sales, profit, customer behavior, product categori
 - **Skills:** Data Cleaning, Data Analysis, Data Visualization
 
 ## 📊 Dashboard
-![Dashboard Screenshot](./Screenshot2.png)
+![Screenshot](screenshot.png)
+
 
 ## 🚀 Insights
 - Maharashtra has the highest sales among all states.
